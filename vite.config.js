@@ -1,0 +1,1 @@
+// Configuracao do Vite para build e dev server
